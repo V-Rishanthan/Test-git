@@ -1,3 +1,9 @@
 
 ---git status = current status of git
 
+-- git commit -m "add new index.js"
+-- git push
+--git branch
+--git pull
+
+--it checkout rishan  (Change the current work file into clone file)
