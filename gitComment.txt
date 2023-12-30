@@ -6,4 +6,11 @@
 --git branch
 --git pull
 
+--git add .
+--git checkout main
+
 --it checkout rishan  (Change the current work file into clone file)
+
+
+git branch
+git pull
